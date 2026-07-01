@@ -22,6 +22,7 @@
 - **Programming Languages**:
     
      <img src="https://ih1.redbubble.net/image.2189776566.6167/raf,360x360,075,t,fafafa:ca443f4786.jpg" width="40" height="40" />
+     <img src="https://img.icons8.com/ios_filled/1200/c-plus-plus-logo.jpg" width="40" height="40" />
   
 - **Front-End Development**:
 
