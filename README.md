@@ -19,7 +19,7 @@
 
 <p align="center">
 
-- **Languages**:
+- **Programming Languages**:
     
      <img src="https://ih1.redbubble.net/image.2189776566.6167/raf,360x360,075,t,fafafa:ca443f4786.jpg" width="40" height="40" />
   
