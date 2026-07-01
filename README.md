@@ -3,8 +3,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=f18701&width=370&height=100&lines=Hi+%2C+I'm+Rwan+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 <p align="left"> 
-	
-## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
+
+<div>
+	<img src="https://github.com/user-attachments/assets/8ef241cd-5624-4acc-ade2-8febb0ed404f" width = 40px style="display: inline; marging-top: 10px;"/>
+	<p style="display: inline;">About Me</p>
+</div>	
+<hr height="0.5">
+
+
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
